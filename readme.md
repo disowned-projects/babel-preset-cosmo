@@ -78,4 +78,3 @@ console.log(n); // { x: 1, y: 2, a: 3, b: 4 }
 ## License
 
 MIT © [Sid Doshi](https://sid.sh)
-# babel-preset-cosmo
