@@ -9,7 +9,7 @@ To use it in a non-cosmo project, Follow the steps bellow:
 ## Install
 
 ```bash
-$ npm install @babel/core @babel/cli babel-preset-cosmo
+$ npm install @babel/core @babel/cli babel-preset-cosmo --save-dev
 
 $ npm install @babel/runtime --save
 ```
